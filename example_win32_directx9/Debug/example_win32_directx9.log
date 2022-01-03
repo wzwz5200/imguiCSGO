@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Administrator\Downloads\imgui-master (3)\imgui-master\examples\example_win32_directx9\main.cpp(139,47): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Downloads\imgui-master (3)\imgui-master\examples\example_win32_directx9\main.cpp(88,10): warning C4189: “show_demo_window”: 局部变量已初始化但不引用
+  imgui.obj : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+  正在生成代码
+  已完成代码的生成
+HttpLib.lib(requests.obj) : warning LNK4099: 未找到 PDB“Http.pdb”(使用“HttpLib.lib(requests.obj)”或在“C:\Users\Administrator\Downloads\imgui-master (3)\imgui-master\examples\example_win32_directx9\Debug\Http.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+HttpLib.lib(utils.obj) : warning LNK4099: 未找到 PDB“Http.pdb”(使用“HttpLib.lib(utils.obj)”或在“C:\Users\Administrator\Downloads\imgui-master (3)\imgui-master\examples\example_win32_directx9\Debug\Http.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  example_win32_directx9.vcxproj -> C:\Users\Administrator\Downloads\imgui-master (3)\imgui-master\examples\example_win32_directx9\Debug\example_win32_directx9.exe
